@@ -1,7 +1,15 @@
+.ak{
+    background-color: yellowgreen;
+    width: 20%;
+    margin: 10%;
+    border-radius: 2%;
+    float: left;
+    border: 1px solid brown;
+    padding-left: 20%;
+}
 h1{
-                background-color: yellowgreen;
-                width: 20%;
-                margin: 10%;
-                border-radius: 2%;
-                float: left;
+    background-color: aqua;
+}
+p{
+    color: beige;
 }
